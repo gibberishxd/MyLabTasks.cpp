@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MyLab Tasks.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab 1 var 8.cpp
+C:\Users\user\source\repos\MyLab Tasks\MyLab Tasks\Lab 1 var 8.cpp(31,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyLab Tasks.vcxproj -> C:\Users\user\source\repos\MyLab Tasks\Debug\Lab 1 var8.exe
