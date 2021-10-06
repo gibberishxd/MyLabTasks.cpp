@@ -32,7 +32,7 @@ int main()
 
 	if (a <= 1 / 4 * PI && a <= 1 / 2 * PI || 3 / 4 * PI < a && a < PI || 5 / 4 * PI < a && a < 3 / 2 * PI || 7 / 4 * PI <= a && a <= 2 * PI) {
 		cout << "Coordinate is included \n";
-
+		 
 	}
 	else {
 		cout << "Coordinate is not included \n";
