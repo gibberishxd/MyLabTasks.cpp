@@ -27,7 +27,7 @@ int main()
         }
 
         if (i == reNum) {
-            cout << i;
+            cout << i << endl;
         }
     }
     return 0;
