@@ -8,7 +8,7 @@ int main()
 
     for (int i = 1; i <= limit; i++) {
 
-        unsigned int curNum = i;
+        int curNum = i;
 
         int reNum = 0;
 
