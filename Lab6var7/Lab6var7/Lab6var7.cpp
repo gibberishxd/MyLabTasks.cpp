@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿/*#include <iostream>
 using namespace std;
 
 int akk(int m, int n) {
@@ -22,4 +22,14 @@ int main() {
     cout << "Enter n\n";
     cin >> n;
     return akk(m, n);
+}*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+cout << "Hello max";
+cout << "Bye max";
+
+
 }

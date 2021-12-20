@@ -1,2 +1,2 @@
 ﻿  Lab6var7.cpp
-  Lab6var7.vcxproj -> C:\Users\user\Desktop\Labs ОП\MyLabTasks.cpp\Lab6var7\Debug\Lab6var7.exe
+C:\Users\user\Desktop\Labs ОП\MyLabTasks.cpp\Lab6var7\Lab6var7\Lab6var7.cpp : fatal error C1090: PDB API call failed, error code '3': C:\Users\user\Desktop\Labs ОП\MyLabTasks.cpp\Lab6var7\Lab6var7\Debug\vc142.pdb
